@@ -22,6 +22,8 @@
  * Ordered alphabetically using scriptname.
  * Scriptnames of files in this file should be prefixed with "spell_warr_".
  */
+ 
+ // What The Duce
 
 #include "Player.h"
 #include "ScriptMgr.h"
